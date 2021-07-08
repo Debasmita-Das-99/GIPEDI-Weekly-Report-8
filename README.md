@@ -28,9 +28,9 @@ After replacing Copper with Gold in the metamaterial design, the simulation fail
 
 
 ### Inference:
-From the above observations, the following has been infered:
-   1. Upon replacing the concentric ring slots with spiral ring slots, the number of absorption bands increased and the peak absorbtivity of the bands in frequency range 75 - 80 GHz, got enhanced.
-   2. Upon rotating the spiral square ring slot by 45 degree, the the peak absorbtivity of the bands in frequency range 83 - 90 GHz, got enhanced and a wider absorption band in frequency range 97 - 101 GHz was obtained.  
+From the above observations, the following can be inferred:
+   1. Upon replacing the concentric ring slots with spiral ring slots, the number of absorption bands increased and the peak absorptivity of the bands in frequency range 75 - 80 GHz, got enhanced.
+   2. Upon rotating the spiral square ring slot by 45 degree, the the peak absorptivity of the bands in frequency range 83 - 90 GHz, got enhanced and a wider absorption band in frequency range 97 - 101 GHz was obtained.  
 
 ### Conclusion
 - Using spiral Slot in place of concentric ring slots yields broader absorption band since the former offers higher electrical length.
